@@ -1,0 +1,14 @@
+path: SeaShips/ # dataset root dir
+train: train/images
+val: val/images
+test: test/images
+# Classes
+names:
+  0: bulk cargo carrier
+  1: container ship
+  2: fishing boat
+  3: general cargo ship
+  4: ore carrier
+  5: passenger ship
+
+
